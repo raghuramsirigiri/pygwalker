@@ -19,7 +19,8 @@ PyGWalker is a library that uses that helps in Data Visualization and Exlporator
 
 ## Advantages
 * Can create beautiful plots quicky using user intreface if one is feeling lazy to type some code
-* 
+* Free to use unlike paid BI softwares
+* Easy to implement
 
 
 ## Disadvantages
